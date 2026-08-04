@@ -42,8 +42,8 @@
 	
 
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<h2 align="center">🐍 Snake Eating My Contributions</h2>
+
+<p align="center">
+  <img src="https://github.com/Alejandro-MAT/Alejandro-MAT/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
