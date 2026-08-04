@@ -3,6 +3,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=19&pause=1000&color=22F76C&width=435&lines=%F0%9F%92%BB+Estudiante+de+Ingenier%C3%ADa+de+Sistemas;%F0%9F%93%9A+Siempre+Aprendiendo;%F0%9F%92%A1+Apasionado+por+la+Tecnolog%C3%ADa;%F0%9F%A7%A9+Resolviendo+Problemas+con+C%C3%B3digo" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+    <img src="./assets/banner.png" width="100%" alt="Banner">
+</p>
+
 
 <br>
 
